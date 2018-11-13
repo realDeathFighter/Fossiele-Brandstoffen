@@ -1,6 +1,9 @@
 h1.FB {
  text-align: center;
 }
+.FBFotos img {
+margin: 0px;
+}
 body {
 background-color: coral;
 margin: 0px;
