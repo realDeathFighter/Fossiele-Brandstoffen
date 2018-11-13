@@ -1,6 +1,10 @@
 h1.FB {
  text-align: center;
 }
+.FBFotos1 {
+height: 60px;
+ width: 70px;
+}
 body {
 background-color: coral;
 margin: 0px;
