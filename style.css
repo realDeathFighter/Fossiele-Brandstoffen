@@ -1,9 +1,9 @@
 h1.FB {
  text-align: center;
 }
-.FBFotos1 {
-height: 240px;
- width: 320px;
+.FBFotos {
+    display: block;
+    margin: 0 auto;
 }
 body {
 background-color: coral;
